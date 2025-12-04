@@ -1,0 +1,19 @@
+:root{
+  --accent:#ff6b6b;
+}
+body{
+  background: linear-gradient(180deg,#f8fafc, #ffffff);
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+.avatar{
+  width:64px;
+  height:64px;
+  border-radius:8px;
+  background-size:cover;
+  background-position:center;
+  border:3px solid rgba(255,255,255,0.6);
+  box-shadow:0 4px 12px rgba(16,24,40,0.08);
+}
+.card{ border-radius:12px; }
+.navbar-brand{ font-weight:600; }
+footer{ font-size:0.9rem; }
