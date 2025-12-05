@@ -20,7 +20,6 @@ public class DogService {
         dogs.add(new Dog("Saul", "Beagle", "Expert at finding treats. Very good boy."));
         dogs.add(new Dog("Kim", "Border Collie", "Smart, energetic, and excellent at herding the couch pillows."));
         dogs.add(new Dog("Gus", "French Bulldog", "Serious stare, cuddles on demand."));
-        dogs.add(new Dog("Pablo", "Beagle", "Stuttgarter Lieblingshund."));
     }
 
     public List<Dog> getAll() {
